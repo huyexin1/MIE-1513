@@ -1,0 +1,7 @@
+AVGNEIGHBOURHOODLISTINGPRICE [AvgNeighbourhoodListingPrice test cases]: True {None}
+COUNTWORDS [countWords test cases]: True {None}
+DIVISORS [divisors test cases]: True {None}
+LEASTSQUARESFIT [leastSquaresFit test cases]: True {None}
+ONLYUPPERCASE [onlyUpperCase test cases]: True {None}
+ORGANIZEDCOUNTWORDS [organizedCountWords test cases]: True {None}
+POSITIONWORD [positionWord test cases]: True {None}
